@@ -190,6 +190,13 @@
               <Item Name="PowerShell Command Parameter" Foreground="0x00B5E4FF" Background="0x01000001" BoldFont="Yes"/>
               <Item Name="PowerShell Command Argument" Foreground="0x0000A3FB" Background="0x01000001" BoldFont="No"/>
               <Item Name="PowerShell Command" Foreground="0x0000FFFF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="type parameter name" Foreground="0x00FF80FF" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="struct name" Foreground="0x0078641D" Background="0x02000000" BoldFont="No"/>
+              <Item Name="module name" Foreground="0x00B0C94E" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="interface name" Foreground="0x00DBC26C" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="enum name" Foreground="0x0000FF80" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="delegate name" Foreground="0x00FFB1B1" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="class name" Foreground="0x00AF912B" Background="0x02000000" BoldFont="Yes"/>
               <Item Name="punctuation" Foreground="0x0075FFBA" Background="0x02000000" BoldFont="Yes"/>
               <Item Name="CoffeeScriptHeRegExSeparatorFormatDefinition" Foreground="0x00008CFF" Background="0x02000000" BoldFont="No"/>
               <Item Name="CoffeeScriptRawJavaScriptFormatDefinition" Foreground="0x002F6B55" Background="0x02000000" BoldFont="No"/>
