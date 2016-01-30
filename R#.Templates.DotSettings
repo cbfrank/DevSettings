@@ -1,0 +1,53 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Shortcut/@EntryValue">classd</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Description/@EntryValue">Class with IDispose</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Text/@EntryValue">class $name$: $classbasetype$&#xD;
+  {&#xD;
+    protected virtual void Dispose(bool disposing)&#xD;
+	{&#xD;
+	  if(disposing)&#xD;
+	  {&#xD;
+	  }&#xD;
+	}&#xD;
+	public void Dispose()&#xD;
+	{&#xD;
+	  Dispose(true);&#xD;
+	  GC.SuppressFinalize(this);&#xD;
+	}&#xD;
+	~$name$()&#xD;
+    {&#xD;
+	  Dispose(false);&#xD;
+    }&#xD;
+    $END$&#xD;
+  }</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Categories/=Custom/@EntryIndexedValue">Custom</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Field/=name/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Field/=name/Expression/@EntryValue">constant("MyClass")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Field/=name/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Field/=classbasetype/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Field/=classbasetype/Expression/@EntryValue">constant("IDispose")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Field/=classbasetype/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Shortcut/@EntryValue">propgr</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Description/@EntryValue">Property with only read for C#6</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Text/@EntryValue">public $type$ $property$ { get; }</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Categories/=Custom/@EntryIndexedValue">Custom</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">6.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Field/=property/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Field/=property/Expression/@EntryValue">constant("int")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Field/=property/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Field/=type/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Field/=type/Expression/@EntryValue">suggestVariableName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=155E07E694DC9C45BFE3BB1DF609EE94/Field/=type/Order/@EntryValue">1</s:Int64></wpf:ResourceDictionary>
