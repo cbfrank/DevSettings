@@ -34,6 +34,35 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Field/=classbasetype/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Field/=classbasetype/Expression/@EntryValue">constant("IDispose")</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FF1CEE120FB164CA7A0FB9F7BDAD3BF/Field/=classbasetype/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Shortcut/@EntryValue">disp</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Description/@EntryValue">dispose methods for class</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Text/@EntryValue">protected virtual void Dispose(bool disposing)&#xD;
+{&#xD;
+	if(disposing)&#xD;
+	{&#xD;
+	$END$&#xD;
+	}&#xD;
+}&#xD;
+public void Dispose()&#xD;
+{&#xD;
+	Dispose(true);&#xD;
+	GC.SuppressFinalize(this);&#xD;
+}&#xD;
+~$name$()&#xD;
+{&#xD;
+	Dispose(false);&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Categories/=Custom/@EntryIndexedValue">Custom</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Field/=name/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Field/=name/Expression/@EntryValue">typeName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=40AB117E2ED35C48A63198224D78F907/Field/=name/Order/@EntryValue">0</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FFF2B25179EB1040B790469B07ED9AA6/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FFF2B25179EB1040B790469B07ED9AA6/Shortcut/@EntryValue">propgf</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FFF2B25179EB1040B790469B07ED9AA6/Description/@EntryValue">Property readonly with get as a function</s:String>
