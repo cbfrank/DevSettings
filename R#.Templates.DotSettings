@@ -98,7 +98,7 @@ public $type$ $property$&#xD;
 	    if(_$property$ != value)&#xD;
 		{&#xD;
 			_$property$ = value;&#xD;
-			NotifyOfPropertyChange(() =&gt; $property$);&#xD;
+			NotifyOfPropertyChange(nameof($property$));&#xD;
 		}&#xD;
 	}&#xD;
 }</s:String>
