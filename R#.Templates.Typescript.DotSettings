@@ -1,0 +1,35 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Shortcut/@EntryValue">defact</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Description/@EntryValue">Define a new action</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Text/@EntryValue">export interface I$Action$Param {&#xD;
+    $Field$: $Type$;&#xD;
+}&#xD;
+&#xD;
+export interface I$Action$Action extends Redux.Action {&#xD;
+    params: I$Action$Param;&#xD;
+}&#xD;
+&#xD;
+export function $ActionFunc$Action(params: I$Action$Param):I$Action$Action {&#xD;
+    return {&#xD;
+        type: $ActionsTypeName$.$Action$,&#xD;
+        params: params&#xD;
+    };&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Scope/=5A0CCA3880C9804BAC3D41971816B786/Type/@EntryValue">InTypeScriptFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Scope/=5A0CCA3880C9804BAC3D41971816B786/CustomProperties/=availableInTypeScript/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=Action/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=Action/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=Field/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=Field/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=Type/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=Type/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=ActionsTypeName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=ActionsTypeName/Order/@EntryValue">3</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=ActionFunc/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=ActionFunc/Expression/@EntryValue">decapitalize(Action)</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Field/=ActionFunc/Order/@EntryValue">4</s:Int64></wpf:ResourceDictionary>
