@@ -1,4 +1,49 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Shortcut/@EntryValue">imp</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Description/@EntryValue">import { } from</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Text/@EntryValue">import { $import$ } from "$from$";&#xD;
+$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Scope/=5A0CCA3880C9804BAC3D41971816B786/Type/@EntryValue">InTypeScriptFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Scope/=5A0CCA3880C9804BAC3D41971816B786/CustomProperties/=availableInTypeScript/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Field/=from/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Field/=from/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Field/=import/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Field/=import/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Shortcut/@EntryValue">impa</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Description/@EntryValue">import * as </s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Text/@EntryValue">import * as $as$ from "$from$";&#xD;
+$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Scope/=5A0CCA3880C9804BAC3D41971816B786/Type/@EntryValue">InTypeScriptFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Scope/=5A0CCA3880C9804BAC3D41971816B786/CustomProperties/=availableInTypeScript/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Field/=as/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Field/=as/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Field/=from/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Field/=from/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Shortcut/@EntryValue">impd</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Description/@EntryValue">import default from</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Text/@EntryValue">import $default$ from "$from$";&#xD;
+$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Scope/=5A0CCA3880C9804BAC3D41971816B786/Type/@EntryValue">InTypeScriptFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Scope/=5A0CCA3880C9804BAC3D41971816B786/CustomProperties/=availableInTypeScript/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Field/=from/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Field/=from/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Field/=default/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Field/=default/Order/@EntryValue">1</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Shortcut/@EntryValue">defact</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Description/@EntryValue">Define a new action</s:String>
@@ -18,6 +63,7 @@ export function $ActionFunc$Action(params: I$Action$Param):I$Action$Action {&#xD
 }</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Categories/=Imported_00202018_002F5_002F27/@EntryIndexedValue">Imported 2018/5/27</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Scope/=5A0CCA3880C9804BAC3D41971816B786/Type/@EntryValue">InTypeScriptFile</s:String>
