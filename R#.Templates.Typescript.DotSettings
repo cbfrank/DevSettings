@@ -6,6 +6,7 @@
 $END$</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Categories/=Imported_002006_002F12_002F2018/@EntryIndexedValue">Imported 06/12/2018</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524FFE8CF07BA54EA26FF4DD1C43A940/Scope/=5A0CCA3880C9804BAC3D41971816B786/Type/@EntryValue">InTypeScriptFile</s:String>
@@ -21,6 +22,7 @@ $END$</s:String>
 $END$</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Categories/=Imported_002006_002F12_002F2018/@EntryIndexedValue">Imported 06/12/2018</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3E8F24E794D25C4C959A79D100E99B72/Scope/=5A0CCA3880C9804BAC3D41971816B786/Type/@EntryValue">InTypeScriptFile</s:String>
@@ -36,6 +38,7 @@ $END$</s:String>
 $END$</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Categories/=Imported_002006_002F12_002F2018/@EntryIndexedValue">Imported 06/12/2018</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Scope/=5A0CCA3880C9804BAC3D41971816B786/Type/@EntryValue">InTypeScriptFile</s:String>
@@ -44,6 +47,16 @@ $END$</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Field/=from/Order/@EntryValue">0</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Field/=default/@KeyIndexDefined">True</s:Boolean>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=742CEE263E790F46AD16E70418B19893/Field/=default/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/Shortcut/@EntryValue">reactf</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/Description/@EntryValue">React.Fragment</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/Text/@EntryValue">&lt;React.Fragment&gt;&lt;/React.Fragment&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/Scope/=5A0CCA3880C9804BAC3D41971816B786/Type/@EntryValue">InTypeScriptFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9C73AA39854E543BD87B6C5B60683C1/Scope/=5A0CCA3880C9804BAC3D41971816B786/CustomProperties/=availableInTypeScript/@EntryIndexedValue">True</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Shortcut/@EntryValue">defact</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Description/@EntryValue">Define a new action</s:String>
@@ -63,6 +76,7 @@ export function $ActionFunc$Action(params: I$Action$Param):I$Action$Action {&#xD
 }</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Categories/=Imported_002006_002F12_002F2018/@EntryIndexedValue">Imported 06/12/2018</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Categories/=Imported_00202018_002F5_002F27/@EntryIndexedValue">Imported 2018/5/27</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A958D0DCF6D1B04C8E745A4A713F7E44/Scope/=5A0CCA3880C9804BAC3D41971816B786/@KeyIndexDefined">True</s:Boolean>
