@@ -1,9 +1,10 @@
-<scheme name="Dark" version="142" parent_scheme="Darcula">
+<scheme name="Frank Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-09-06T15:52:13</property>
+    <property name="created">2023-12-20T10:58:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-09-06T15:52:20</property>
+    <property name="modified">2023-12-20T10:58:20</property>
+    <property name="originalScheme">Frank Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
@@ -11,7 +12,7 @@
     <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="ced0d6" />
     <option name="CARET_COLOR" value="ced0d6" />
     <option name="CARET_ROW_COLOR" value="26282e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1e1f22" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="868a91" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="2b2d30" />
     <option name="DOCUMENTATION_COLOR" value="2b2d30" />
@@ -51,7 +52,9 @@
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffff00" />
+      </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BAD_CHARACTER">
@@ -212,7 +215,8 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="bcbec4" />
+        <option name="FOREGROUND" value="7dff00" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -230,17 +234,19 @@
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="67a37c" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="abadb3" />
+        <option name="FOREGROUND" value="ffa600" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="68a67e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -263,6 +269,7 @@
       <value>
         <option name="FOREGROUND" value="ffe9c8" />
         <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2b2d30" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
@@ -284,6 +291,7 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="6bc0d9" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -296,7 +304,15 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff0000" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="2b2d30" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -311,7 +327,8 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="b3ae60" />
+        <option name="FOREGROUND" value="35f555" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -329,7 +346,7 @@
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffa600" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -356,6 +373,7 @@
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="7dff00" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -520,6 +538,13 @@
       <value>
         <option name="FOREGROUND" value="c9cbd6" />
         <option name="BACKGROUND" value="43454a" />
+      </value>
+    </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bfa400" />
+        <option name="EFFECT_COLOR" value="bda300" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -719,6 +744,13 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffff00" />
+        <option name="BACKGROUND" value="7f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="Static method access">
       <value>
         <option name="FOREGROUND" value="c77dba" />
@@ -739,7 +771,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="bcbec4" />
-        <option name="BACKGROUND" value="1e1f22" />
+        <option name="BACKGROUND" value="121212" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -770,7 +802,8 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="16baac" />
+        <option name="FOREGROUND" value="ff80ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TYPO">
